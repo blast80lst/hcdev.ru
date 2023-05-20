@@ -232,7 +232,7 @@ description: Тег iframe (от англ. inline frame - встроенная �
 **Синтаксис**
 
 ```html
-<iframe src="<адрес>">...</iframe>
+<iframe src="kseniafrance.ru"></iframe>
 ```
 
 **Значения**
